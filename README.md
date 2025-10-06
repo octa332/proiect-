@@ -1,5 +1,3 @@
-
-
 ## Overview
 
 This project is a C++ console application designed to manipulate and operate on hexadecimal numbers. It provides an interactive menu for users to perform arithmetic operations (addition, subtraction, multiplication, division) on hexadecimal values, all managed through a custom `HexInt` class. The program includes password authentication, logs operation results to a file, and demonstrates object-oriented and operator overloading concepts in C++.
